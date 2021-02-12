@@ -48,7 +48,7 @@ standard_slide("7. what is it about terminals?", "open 'img/ssh-keygen.png' 'img
 input("\nagency?")
 input("machismo?")
 input("entertainment?\n\n\n")
-os.system("bunnysay 'idk'")
+os.system("open -a Terminal")
 input("")
 
 standard_slide("8. talking to computers on their own terms", "open img/pfeifer.pdf")
